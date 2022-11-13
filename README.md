@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://desafio-bsale-back-begazo.herokuapp.com/docs/">
-    Desafío Bsale - Backend
+    Dedsafío Bsale - Backend
   </a>
 </h1>
 
@@ -33,11 +33,7 @@ Cuando acceda a una de las anteriores url, saldrá el siguiente mensaje, eso sig
 Cannot GET /inventory
 ```
 
-## Estrcutra de ficheros del Pryecto
-
-<p>
-  <img src="https://res.cloudinary.com/alvarob15/image/upload/v1637631383/backEstructura_xjbmik.png" alt="Estructura de Backend" width="500px" height="auto">
-</p>
+## Estrcutra de ficheros del Proyecto
 
   - Tenemos keys.js, donde se declara las variables de entorno local o desplegado (se asigno las variables de entorno en Heroku).
 
