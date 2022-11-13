@@ -1,0 +1,1 @@
+web: node ./services/inventory/index.js
